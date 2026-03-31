@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 # ============================================================
 # VERIFICA BASH - Traccia B - Esercizio 3
 # Permessi
@@ -12,6 +12,12 @@
 #   5. Verifica il risultato finale
 #
 # Scrivi i comandi qui sotto:
+cd ../../../sandbox
+ls -l 
+chmod g+r dati_privati.txt 
+ls -l
+chmod o- dati_privati.txt
+ls -l
 # ------------------------------------------------------------
 
 
