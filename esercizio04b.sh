@@ -11,6 +11,9 @@
 #   3. Verifica con ls che le operazioni siano riuscite
 #
 # Scrivi i comandi qui sotto:
+cd ../..
+cp -r  ambiente/documenti/report ambiente/sandbox
+cp ambiente/documenti/note.txt ambiente/documenti/appunti.txt
 # ------------------------------------------------------------
 
 
