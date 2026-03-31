@@ -11,6 +11,8 @@
 #      allo stesso file estratto.txt
 #
 # Scrivi i comandi qui sotto:
+find ambiente/immagini/lavoro *.jpn*
+
 # ------------------------------------------------------------
 
 
