@@ -12,6 +12,8 @@
 #      (usa awk '{print $3}' per estrarre il nome utente)
 #
 # Scrivi i comandi qui sotto:
+cat accessi.log
+
 # ------------------------------------------------------------
 
 
