@@ -18,6 +18,8 @@
 #   Poi verifica il risultato con tree (o ls ricorsivo)
 #
 # Scrivi i comandi qui sotto:
+mkdir -p scuola/{classi/terza/quarta}/{docenti/terza/quarta}
+tree scuola
 # ------------------------------------------------------------
 
 
